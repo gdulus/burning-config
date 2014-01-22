@@ -11,7 +11,7 @@ This feature allows to monitor last execution of the job.
 ####Additional info:
 * job execution time will be stored in DB and passed as a parameter to it next run
 * at the first time when there is no DB entry null will be returned 
-* date will be stored in DB under key <FULL_JOB_NAME>.lastRun, e.g.: org.example.MyTestJob.lastRun
+* date will be stored in DB under key FULL_JOB_NAME.lastRun, e.g.: org.example.MyTestJob.lastRun
 
 ####Example:
 
