@@ -4,7 +4,7 @@
 
 This feature allows to monitor last execution of the job. To use it: 
 
-* provide job execute metod with one paremeter type def
+* provide job execute metod with one paremeter type def (name is not important)
 * annotate it with @JobLastRun
 
 Example
