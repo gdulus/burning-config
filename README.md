@@ -1,10 +1,12 @@
 #burning-config
 
-## job last run monitoring 
+##Features
+
+###Job last run monitoring 
 
 This feature allows to monitor last execution of the job. 
 
-####To use it: 
+#####To use it: 
 * provide job execute metod with one paremeter type def (name is not important)
 * annotate it with @JobLastRun
 
